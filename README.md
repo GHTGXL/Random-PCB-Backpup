@@ -7,9 +7,13 @@ R5 Full/ Malaysia 3x6 Box
 It has ESP32 Dev1, HiLink HLK-10M05, Senseair S8, IR Control, and exposed, unused GPIO Pins. This is Tested for Esphome. 
 
 R5 Mini/ Malaysia 3x6 Box
-[Picture]
+![20240124_051145](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/59279c67-54cb-46b5-a543-763f63488200)
+
 It has ESP32 Dev1, HiLink HLK-PM01, and A Lot of unused, exposed GPIO Pins, tested with Esphome. This is for Mini size one.
 Note: Don't Use the 20231212 Version, It has a Plus and Minus problem.
+If You use it, You need to cut the wrong one like in these two picture.
+![20240124_062229](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/a8883fd5-80a6-4280-b87d-f6f81c9a228f)
+![20240124_062237](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/eabaa667-7022-4b39-b3e6-a719ad20c2c4)
 
 ESP32 Dev1 Adaptor/ ESP32 Dev Board Full Size Screwin
 ![20231018_212921](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/7bb8ef10-7e03-467e-892b-58ef229cfd4d)
