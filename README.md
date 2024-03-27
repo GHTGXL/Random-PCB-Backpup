@@ -14,7 +14,7 @@ It has ESP32 Dev1, HiLink HLK-PM01, and A Lot of unused, exposed GPIO Pins, test
 
 Note: Don't Use the 20231212 Version, It has a Plus and Minus problem.
 
-If You use it, You need to cut the wrong one like in these two picture.
+If You use it, You need to cut the wrong one like in these two pictures.
 ![20240124_062229](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/a8883fd5-80a6-4280-b87d-f6f81c9a228f)
 ![20240124_062237](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/eabaa667-7022-4b39-b3e6-a719ad20c2c4)
 
@@ -30,3 +30,8 @@ For ESP32 Dev1 Development, it only has ESP32, and some Screw-in Terminal.
 AC to DC Power Supply/220v AC to 5v DC power/ 110v AC and 220v AC to 5v DC power
 ![20240124_015628](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/544128dd-0f02-4588-b470-41636caa1722)
 It Has HiLink HLK-10M05, a 5x20mm fuse, A VDR, and Polypropylene Film Safety Capacitors.
+
+If using rj45 please follow this picture.
+![20240327_183631](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/b045b544-763b-4823-a6a7-81a07d72facf)
+
+
