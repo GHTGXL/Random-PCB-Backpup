@@ -21,6 +21,7 @@ If You use it, You need to cut the wrong one like in these two picture.
 And Connect back the Plus and Minus Like in this picture.
 ![20240124_061953](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/5b874e69-93bf-4d38-9ae5-d230e67f993b)
 
+The 20240223 one didn't have this problem.
 
 ESP32 Dev1 Adaptor/ ESP32 Dev Board Full Size Screwin
 ![20231018_212921](https://github.com/GHTGXL/Random-PCB-Backpup/assets/83491024/7bb8ef10-7e03-467e-892b-58ef229cfd4d)
